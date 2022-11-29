@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 克隆并初始化项目
 
 ```bash
@@ -24,6 +23,3 @@ $ npm run start:dev
 # 生产环境
 $ npm run start:prod
 ```
-=======
-# wingosite.github.io
->>>>>>> 598c323b392b1df0461ee63163ae93e42e5a1e8b
